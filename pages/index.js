@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Not Allowed" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          This is not allowed!!
         </p>
       </main>
 
